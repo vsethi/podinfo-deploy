@@ -1,0 +1,1 @@
+{"jobID":"678a83f2-5515-92e5-e33f-5145a3967b48","spec":{"type":"policy","cause":{"Message":"","User":"Vikram Sethi \u003cvsethi.github@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
